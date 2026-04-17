@@ -560,7 +560,7 @@
   </url>
   <url>
     <loc>https://bioprost.pe/ingredientes/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -934,6 +934,48 @@
     <loc>https://bioprost.pe/condiciones/vejiga-neurogena/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/ingrediente/achiote/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/ingrediente/chanca-piedra/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/ingrediente/cola-de-caballo/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/ingrediente/graviola/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/ingrediente/licopeno/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/ingrediente/semillas-de-calabaza/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/ingrediente/una-de-gato/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>
