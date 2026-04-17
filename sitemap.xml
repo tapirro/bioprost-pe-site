@@ -781,6 +781,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bioprost.pe/condiciones/nocturia-y-calidad-de-vida/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bioprost.pe/condiciones/orinar-frecuentemente/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -812,6 +818,12 @@
   </url>
   <url>
     <loc>https://bioprost.pe/condiciones/prostata-despues-60/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-e-infeccion-urinaria/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -931,6 +943,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-obesidad-abdominal/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bioprost.pe/condiciones/prostata-y-obesidad-peru/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -950,6 +968,12 @@
   </url>
   <url>
     <loc>https://bioprost.pe/condiciones/prostata-y-retencion-orina/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-sedentarismo-oficina/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
