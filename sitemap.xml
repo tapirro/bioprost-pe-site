@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bioprost.pe/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -673,7 +673,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bioprost.pe/condiciones/frecuencia-urinaria-diurna/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bioprost.pe/condiciones/goteo-post-miccional/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/hematuria-prostatica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -692,6 +704,12 @@
   </url>
   <url>
     <loc>https://bioprost.pe/condiciones/hiperplasia-prostatica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/hipogonadismo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -745,14 +763,86 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bioprost.pe/condiciones/prevencion-prostata-30s/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prevencion-prostata-jovenes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bioprost.pe/condiciones/problemas-urinarios-hombres/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://bioprost.pe/condiciones/prostata-inflamada/</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-alimentacion/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-ciclismo/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-ejercicio/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-estres-laboral/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-hidratacion/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-sexualidad/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-testosterona-baja/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-vida-sexual/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostatitis-abacteriana/</loc>
+    <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -764,6 +854,12 @@
   </url>
   <url>
     <loc>https://bioprost.pe/condiciones/prostatitis-cronica/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostatitis-no-bacteriana/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -799,6 +895,24 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bioprost.pe/condiciones/sindrome-dolor-pelvico-cronico/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/sindrome-metabolico-prostata/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/sindrome-urinario-bajo/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bioprost.pe/condiciones/testosterona-prostata/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -806,6 +920,12 @@
   </url>
   <url>
     <loc>https://bioprost.pe/condiciones/urgencia-urinaria/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/varicocele-fertilidad/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
