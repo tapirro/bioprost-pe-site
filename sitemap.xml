@@ -691,6 +691,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bioprost.pe/condiciones/disfuncion-erectil-estres-laboral/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bioprost.pe/condiciones/disfuncion-erectil-prostata/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -817,6 +823,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://bioprost.pe/condiciones/nicturia-calidad-sueno/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://bioprost.pe/condiciones/nicturia-prostata/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -909,6 +921,12 @@
   <url>
     <loc>https://bioprost.pe/condiciones/prostata-y-cafe-peru/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://bioprost.pe/condiciones/prostata-y-cafe-peruano/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1193,23 +1211,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://bioprost.pe/condiciones/disfuncion-erectil-estres-laboral/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bioprost.pe/condiciones/prostata-y-cafe-peruano/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bioprost.pe/condiciones/nicturia-calidad-sueno/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
