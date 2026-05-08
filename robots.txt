@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bioprost.pe/sitemap-priority.xml
+Sitemap: https://bioprost.pe/sitemap.xml
